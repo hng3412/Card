@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\src\\main\\jni\\Android.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DKU\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\src\\main\\jni\\Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/DKU/AndroidStudioProjects/Card/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "jniExample-debug-x86": {
+      "artifactName": "jniExample",
+      "buildCommand": "C:\\Users\\DKU\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\src\\main\\jni\\Android.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/DKU/AndroidStudioProjects/Card/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/Users/DKU/AndroidStudioProjects/Card/app/build/intermediates/ndkBuild/debug/obj/local/x86/libjniExample.so",
+      "abi": "x86",
+      "output": "C:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86\\libjniExample.so"
+    }
+  }
+}

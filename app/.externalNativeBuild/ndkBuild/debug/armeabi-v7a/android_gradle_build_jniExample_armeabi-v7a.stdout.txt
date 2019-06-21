@@ -1,0 +1,1 @@
+make: `C:/Users/DKU/AndroidStudioProjects/Card/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libjniExample.so' is up to date.

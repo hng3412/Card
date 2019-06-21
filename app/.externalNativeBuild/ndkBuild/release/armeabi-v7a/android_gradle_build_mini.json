@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\src\\main\\jni\\Android.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\DKU\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\src\\main\\jni\\Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/DKU/AndroidStudioProjects/Card/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "jniExample-release-armeabi-v7a": {
+      "artifactName": "jniExample",
+      "buildCommand": "C:\\Users\\DKU\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\src\\main\\jni\\Android.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-16 NDK_OUT\u003dC:/Users/DKU/AndroidStudioProjects/Card/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dC:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\build\\intermediates\\ndkBuild\\release\\lib C:/Users/DKU/AndroidStudioProjects/Card/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libjniExample.so",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\DKU\\AndroidStudioProjects\\Card\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libjniExample.so"
+    }
+  }
+}
